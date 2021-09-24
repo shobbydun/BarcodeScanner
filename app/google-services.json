@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "842240203166",
+    "project_id": "scan-pay-cb590",
+    "storage_bucket": "scan-pay-cb590.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842240203166:android:3a89e8914606bfb7309e8f",
+        "android_client_info": {
+          "package_name": "com.febrian.qrbarcodescanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "842240203166-aobr9o2a50nglsivp2t2jhapfasgspo2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0unXOCgRrwE4RL5oVKJGwzQOMTzmbjFo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "842240203166-aobr9o2a50nglsivp2t2jhapfasgspo2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
