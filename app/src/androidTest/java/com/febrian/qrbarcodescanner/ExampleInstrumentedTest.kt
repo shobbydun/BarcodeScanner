@@ -11,7 +11,7 @@ import org.junit.Assert.*
 /**
  * Instrumented test, which will execute on an Android device.
  *
- +254 715 742166 - smile mentor
+ +254 715 742166 - smile jkuat mentor
  0789891663 - smile 2
  * See [testing documentation](http://d.android.com/tools/testing).
  */
