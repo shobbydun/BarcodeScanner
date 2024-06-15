@@ -20,6 +20,7 @@ class ExampleInstrumentedTest {
     @Test
     fun useAppContext() {
         // Context of the app under test.
+     //tr +254742138070 randsa Emobilis
         val appContext = InstrumentationRegistry.getInstrumentation().targetContext
         assertEquals("com.febrian.qrbarcodescanner", appContext.packageName)
     }
